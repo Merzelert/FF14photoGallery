@@ -25,5 +25,7 @@ body{
 
 #gallery img {
     width: 25%;
+    height: 300px;
+    object-fit: cover;
     
 }
